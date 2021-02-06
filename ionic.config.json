@@ -1,0 +1,7 @@
+{
+  "name": "ourgarden",
+  "integrations": {
+    "capacitor": {}
+  },
+  "type": "react"
+}
